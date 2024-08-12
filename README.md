@@ -1,4 +1,3 @@
-Certainly! Here is the updated README content formatted for use in a GitHub repository:
 
 ```markdown
 # Drug Repurposing Data Integration and Analysis
